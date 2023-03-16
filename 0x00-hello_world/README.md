@@ -1,1 +1,1 @@
-Preprocessor task as today we're strating with C programming we're very excited 
+Starting C programming with the hello world task and excited for the rest of the journey
